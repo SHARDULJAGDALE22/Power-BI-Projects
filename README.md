@@ -1,6 +1,6 @@
 Hi, I'm a Data Analyst 👋  
 
-Welcome to my GitHub profile! I specialize in leveraging Power BI and Python to transform raw data into meaningful business insights. This repository highlights my Power BI project, where I applied analytical and visualization techniques to uncover actionable trends.
+Welcome to my GitHub profile! I specialize in leveraging Power BI to transform raw data into meaningful business insights. This repository highlights my Power BI project, where I applied analytical and visualization techniques to uncover actionable trends.
 
 ## 📊 Project Overview  
 This Power BI project focuses on analyzing business performance through interactive dashboards. The goal was to present key performance indicators (KPIs) that help stakeholders make data-driven decisions.  
@@ -13,8 +13,7 @@ This Power BI project focuses on analyzing business performance through interact
 ## 🧠 Skills & Tools  
 - Power BI (Dashboard creation, DAX, Data modeling)  
 - Data transformation with Power Query  
-- Data analysis and visualization techniques  
-- Python (Pandas, NumPy, Matplotlib) for data preprocessing  
+- Data analysis and visualization techniques   
 
 ## 📈 Insights & Results  
 - Identified top-performing segments and growth areas.  
